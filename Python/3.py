@@ -1,0 +1,1 @@
+# Exercício 3 - Crie um script python que leia dois números e tente mostrar a soma entre eles.

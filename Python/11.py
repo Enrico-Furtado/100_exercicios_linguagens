@@ -1,0 +1,2 @@
+'''EXERCÍCIO 11 - Faça um programa que leia a altura e a largura de uma parede em metros, calcule a área dessa parede e o quanto de tinta dever ser utilizada pra pintar.
+Considerando que 1 litro pinta 2 metros quadrados.'''
