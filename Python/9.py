@@ -1,1 +1,16 @@
 # EXERCÍCIO 9 - Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.
+
+num = int(input('Digite um numero inteiro qualquer: '))
+print(f'A tabuada de {num} é: ')
+print('||','-'*12,'||')
+print(f'{num} x {1} = {num*1:2}')
+print(f'{num} x {2} = {num*2:2}')
+print(f'{num} x {3} = {num*3:2}')
+print(f'{num} x {4} = {num*4:2}')
+print(f'{num} x {5} = {num*5:2}')
+print(f'{num} x {6} = {num*6:2}')
+print(f'{num} x {7} = {num*7:2}')
+print(f'{num} x {8} = {num*8:2}')
+print(f'{num} x {9} = {num*9:2}')
+print(f'{num} x {10} = {num*10:2}')
+print('-'*12)
