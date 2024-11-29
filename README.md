@@ -1,5 +1,5 @@
 # 100_exercicios_linguagens 
- Repositório contendo 100 exercícios retirados do curso de Python do Curso em Vídeo, aplicados para cada linguagem de programação que estudei ou estou estudando no momento (desde que seja possível aplicar). 
+ Repositório contendo mais de 100 exercícios retirados do curso de Python do Curso em Vídeo de autoria do professor Gsutavo Guanabara, aplicados para cada linguagem de programação que estudei ou estou estudando no momento (desde que seja possível aplicar). 
 
  Abaixo está uma lista com cada um dos exercícios utilizados neste repositório.
 
