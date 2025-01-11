@@ -1,0 +1,2 @@
+'''101 - Crie um programa que tenha um função chamada voto() que vai receber como parâmetro o ano de nascimento de uma pessoa 
+retornando um valor literal indicando se uma pessoa tem o voto NEGADO, OPCIONAL ou OBRIGATÓRIO nas eleições.'''

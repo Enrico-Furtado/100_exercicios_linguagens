@@ -1,0 +1,2 @@
+'''83 - Crie um programa em que o usuário digite uma expressão matemática qualquer que use parênteses. 
+Seu aplicativo deve analisar se a expressão analisada está com o parênteses aberto e fechado na ordem correta.'''

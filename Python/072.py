@@ -1,0 +1,2 @@
+'''72 - Crie um programa que tenha uma tupla totalmente preenchida por uma contagem por extenso de 0 até vinte. 
+Seu programa deve ler um número pelo teclado entre 0 e vinte e mostrá-lo por extenso.'''

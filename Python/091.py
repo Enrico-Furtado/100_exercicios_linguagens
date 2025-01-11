@@ -1,0 +1,2 @@
+'''91 - Crie um programa em que 4 jogadores joguem um dado e tenha resultados aleatórios. Guarde esses resultados em um dicionário. 
+No final coloque, esse dicionário em ordem, sabendo que o vencedor tirou o maior número no dado.'''
