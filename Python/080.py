@@ -19,14 +19,14 @@ while cont < 5:
         menor = valor
         lista.insert(0, valor)
     elif valor in lista:
-        lista.insert(lista.index[valor], valor)
+        lista.insert(lista.index(valor), valor)
     else:
-        for i in lista:
+        for i in range(0, len(lista)):
             if valor < lista[i]:
                 lista.insert(i, valor)
                 break
             elif valor > lista[i]:
-                lista.insert(i + 1, valor)
+                lista.insert(i, valor)
                 break
     cont += 1
 
